@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunshineDioguardo</string>
+    <string name="app_title">Weather App</string>
+
+    <string name="now">Now:</string>
+    <string name="today">Today:</string>
+    <string name="tomorrow">Tomorrow:</string>
+
+
+</resources>
